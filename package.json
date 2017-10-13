@@ -1,6 +1,6 @@
 {
   "name": "ngx-password-toggle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular 4+ directive to show/hide password",
   "main": "index.ts",
   "scripts": {
